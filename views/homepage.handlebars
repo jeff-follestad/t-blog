@@ -1,18 +1,8 @@
-<ol class="post-list">
-  {{#each posts as |post|}}
-    <li>
-      <article class="post">
-        <div class="title">
-          <a href="/post/{{post.id}}" id="title">/ {{title}} \</a>
-          <span>{{description}}</span>
-        </div>
-        <div class="meta">
-          Created at
-          {{format_date created_at}}
-          <a href="/post/{{id}}">{{comments.length}}
-            {{format_plural "comment" comments.length}}</a>
-        </div>
-      </article>
-    </li>
-  {{/each}}
-</ol>
+{{#each posts as |post|}}
+
+{{> post-info post }}
+</div>
+
+{{else}}
+<h6 class="pb-4 has-text-centered is-italic">there are currently no posts</h6>
+{{/each}}
