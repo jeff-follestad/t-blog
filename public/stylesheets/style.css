@@ -2,13 +2,6 @@
   box-sizing: border-box;
 }
 
-.navbar-brand {
- font-size: larger;
-  
-}
-
-
-
 body, html {
   height: 100%;
   padding: 0;
@@ -169,4 +162,3 @@ footer {
     display:flex;
     flex-direction: column;
 }
-
