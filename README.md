@@ -1,7 +1,7 @@
 ![T blog_Login](https://user-images.githubusercontent.com/78771614/123567097-434a7d00-d776-11eb-9709-c9ca7be1f1c1.png)
-![T blog_Login](https://user-images.githubusercontent.com/78771614/123567113-4ba2b800-d776-11eb-8fca-a9ff11f15f92.png)
 ![T blog_Homepage](https://user-images.githubusercontent.com/78771614/123567131-4fced580-d776-11eb-9b79-01ffb38c04e8.png)
 ![T blog_Dashboard](https://user-images.githubusercontent.com/78771614/123567133-51989900-d776-11eb-8c46-a57e98e627c2.png)
+
 # T.blog
 
 ## User Story
