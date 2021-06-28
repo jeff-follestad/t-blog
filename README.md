@@ -1,8 +1,8 @@
-# t.blog
+# T.blog
 
-## user story
+## User Story
 
-t.blog was designed by a developer who writes about tech. t.blog is a CMS-style blog site to publish articles, blog posts, thoughts, and opinions.
+T.blog was designed by a developer who writes about tech. T.blog is a CMS-style blog site to publish articles, blog posts, thoughts, and opinions.
 
 When a user visits the t.blog site for the first time, they are presented with the homepage. The homepage includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in.
 
@@ -29,3 +29,19 @@ Clicking on one of my existing posts in the dashboard allows the user to delete 
 When users click on the logout option in the navigation they are signed out of the site.
 
 If a user is idle on the page for more than a set time, they are automatically signed out of the site.
+
+
+## Details
+
+T.blog's folder structure must follow the Model-View-Controller paradigm. 
+
+T.blog uses:
+
+* Handlebars.js https://www.npmjs.com/package/handlebars
+* Express Handlebars https://www.npmjs.com/package/express-handlebars
+* Mysql https://www.npmjs.com/package/mysql2
+* Sequelize https://www.npmjs.com/package/sequelize
+* dotenv https://www.npmjs.com/package/dotenv
+* bcrypt https://www.npmjs.com/package/bcrypt
+* Express Session https://www.npmjs.com/package/express-session 
+* https://www.npmjs.com/package/connect-session-sequelize
