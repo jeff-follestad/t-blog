@@ -1,5 +1,7 @@
 ![T blog_Login](https://user-images.githubusercontent.com/78771614/123567097-434a7d00-d776-11eb-9709-c9ca7be1f1c1.png)
+
 ![T blog_Homepage](https://user-images.githubusercontent.com/78771614/123567131-4fced580-d776-11eb-9b79-01ffb38c04e8.png)
+
 ![T blog_Dashboard](https://user-images.githubusercontent.com/78771614/123567133-51989900-d776-11eb-8c46-a57e98e627c2.png)
 
 # T.blog
@@ -8,7 +10,7 @@
 
 T.blog was designed by a developer who writes about tech. T.blog is a CMS-style blog site to publish articles, blog posts, thoughts, and opinions.
 
-When a user visits the t.blog site for the first time, they are presented with the homepage. The homepage includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in.
+When a user visits the T.blog site for the first time, they are presented with the homepage. The homepage includes existing blog posts if any have been posted; navigation links for the homepage and the dashboard; and the option to log in.
 
 When users click on the homepage option they are taken to the homepage. Clicking on any other links in the navigation will prompt the user either sign up or sign in.
 
