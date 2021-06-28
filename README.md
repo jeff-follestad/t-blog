@@ -39,7 +39,7 @@ If a user is idle on the page for more than a set time, they are automatically s
 
 ## Details
 
-T.blog's folder structure must follow the Model-View-Controller paradigm. 
+T.blog's folder structure follows the Model-View-Controller paradigm. 
 
 T.blog uses:
 
